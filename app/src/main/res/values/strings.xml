@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="_10_10">10+10</string>
+    <string name="_20">20</string>
+</resources>
